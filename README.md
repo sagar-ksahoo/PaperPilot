@@ -65,7 +65,3 @@ PaperPilot is a Streamlit web application that acts as an AI-powered research as
     python -m streamlit run app.py
     ```
 3.  Your web browser will automatically open a new tab with the application running locally.
-
-## 📁 Project Structure
-
-The project is organized into modular components for better maintainability:
