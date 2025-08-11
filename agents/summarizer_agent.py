@@ -13,6 +13,9 @@ class SummarizerAgent:
         Args:
             model (str): The name of the Ollama model to use (e.g., 'mistral', 'llama3').
         """
+        # FIX: Store the model name as an attribute
+        self.model = model
+        
         # Define the prompt template for summarization
         template = """
         As an expert research assistant, your goal is to provide a clear and concise summary of the following research paper abstract.
