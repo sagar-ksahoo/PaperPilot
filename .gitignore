@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# IDE & Editor
+.vscode/
+.idea/
+
+# Local Database
+chroma_db/

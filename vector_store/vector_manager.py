@@ -1,0 +1,1 @@
+# VectorManager implementation placeholder

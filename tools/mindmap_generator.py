@@ -1,0 +1,1 @@
+# MindmapGenerator implementation placeholder

@@ -1,0 +1,3 @@
+# PaperPilot
+
+Project template generated.

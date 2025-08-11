@@ -1,0 +1,10 @@
+langchain
+langchain-community
+streamlit
+arxiv
+chromadb
+sentence-transformers
+networkx
+matplotlib
+PyMuPDF
+ollama
